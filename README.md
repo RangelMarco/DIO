@@ -1,2 +1,2 @@
 # DIO
-Projetos e desafios realizados na DIO
+Projetos, exercicios e desafios realizados na DIO
